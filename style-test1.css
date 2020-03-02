@@ -43,5 +43,13 @@ h2 {
 	   background-color: rgba(0, 0, 0, 0.4);
 	   z-index:1;
 	}
-	
+	.img .content{
+	     position: absolute;
+	     top:40%;
+	     left:50%;
+	     transform: translate(-50%, -50%);
+	     font-size:1rem;
+	     color: #FAF5C5;
+	     z-index: 1;
+	     text-align: left;
 	}
